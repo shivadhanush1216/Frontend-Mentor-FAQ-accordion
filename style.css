@@ -1,0 +1,106 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
+
+body{
+    background-color: rgb(241, 204, 238);
+    font-family: 'Work Sans', sans-serif;
+}
+
+img{
+    width: 100%;
+    margin-top:-7.8px;
+}
+
+
+main{
+    position: relative;
+}
+
+div{
+    height: auto;
+    width: 550px;
+    margin: 0 auto;
+    bottom: 0;
+    right: 0;
+
+    background-color: white;
+    border-radius: 20px;
+}
+
+
+
+
+.star{
+    height: 50px;
+    width: 100px;
+}
+
+.img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: larger;
+}
+
+.imp{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.minus{
+    height: 30px;
+    width: 50px;
+}
+
+p{
+    margin-left: 20px;
+    font-size: 16px;
+    opacity: 0.7;
+    line-height: 1.5;
+}
+
+h5{
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+hr{
+    width: 90%;
+    opacity: 0.2;
+}
+
+.plus{
+    height: 30px;
+    width: 40px;
+}
+.ques{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+.none1{
+    display: none;
+
+}
+
+.none2{
+    display: none;
+}   
+
+.none3{
+    display: none;
+}   
+
+.none4{
+    display: none;
+}
+
+
